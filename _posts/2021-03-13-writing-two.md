@@ -4,7 +4,7 @@ title: "Skills We Need"
 date: 2021-03-13
 ---
 
-<strong>Soft skills</storng>
+<strong>Soft skills</strong><br/>
 I think the high requirements for ourself and great teamwork with other colleagues are the
 soft conditions that employees must-have. Correct use of words, intonation and body
 language is the most important to communicate effectively with others.First of all, I will be
@@ -18,7 +18,7 @@ achieve the highest work efficiency. Besides, I think I am good at listening to 
 ideas with my own opinions. During university, I participated in group activities many times
 and have rich experience.
 
-<strong>Analytic skills</strong>
+<strong>Analytic skills</strong><br/>
 Yelp is looking for individuals who are proficient in data analysis and R and python, after
 three years of university statistics courses, I have mastered the use of R proficiently and
 completed many projects on my own, for example, exploring COVID-19 data for Toronto,
@@ -27,7 +27,7 @@ complete some statistical data analysis work. During the study, I can skillfully
 to build models and visualize data. In addition, I learned Python and other computer
 languages as a draft pick in my freshman year, which will be of great help to my work.
 
-<strong>Connection to studies</strong>
+<strong>Connection to studies</strong><br/>
 In this semester's 303 course, I will complete the production of a profile website. I will show
 my data analysis and some of my personal experience so far on my profile website. This
 profile website will more vividly show you my ability in using R and python, which will be
