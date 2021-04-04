@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Data exploration"
+title: "Data Exploration of COVID-19 in Toronto"
 date: 2021-02-17
 ---
 
