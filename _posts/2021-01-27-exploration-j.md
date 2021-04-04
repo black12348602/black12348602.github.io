@@ -12,7 +12,9 @@ Q = factor(cycle(jj) ) # make (Q)uarter factors
 reg = lm(log(jj)~0 + trend + Q, na.action=NULL) # no intercept
 summary(reg) # view the results 
 ```
-$ \hat{x}_t = 0.167172 t + 1.052793 Q_1(t) + 1.080916 Q_2(t) + 1.151024 Q_3(t) + 0.882266 Q_4(t) $
+$$ 
+\hat{x}_t = 0.167172 t + 1.052793 Q_1(t) + 1.080916 Q_2(t) + 1.151024 Q_3(t) + 0.882266 Q_4(t) 
+$$
 Since the p-value are less than 0.05, so the estimated parameters and the full model are very significant.
 
 ## b)
